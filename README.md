@@ -1,0 +1,2 @@
+# research
+VRChatのワールド用ファイルのまとめ
